@@ -1,0 +1,1169 @@
+.navbar{
+    /* Group 1729 */
+
+/* Rectangle 1 */
+
+position: absolute;
+width:100%;
+height: 90px;
+left: 0px;
+top: 0px;
+
+background-color: #F0F0F0;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+
+}
+#image1{
+    /* logo 1 */
+
+position: absolute;
+width: 311px;
+height: 49px;
+left: 83px;
+padding-top: 20px;
+
+
+}
+#image2{
+/* Group 1097 */
+
+position: absolute;
+width: 30px;
+height: 32.37px;
+left: 1602px;
+top: 33px;
+border-radius: 250px;
+}
+
+#image3{
+/* Group 1100 */
+
+position: absolute;
+width: 30px;
+height: 32.37px;
+left: 1655px;
+top: 33px;
+border-radius: 250px;
+
+}
+#image4{
+position: absolute;
+width: 30px;
+height: 32.37px;
+left: 1708px;
+top: 33px;
+border-radius: 250px;
+
+}
+#image5{
+/* Ellipse 53 */
+
+position: absolute;
+width: 37px;
+height: 37px;
+left: 1761px;
+top: 28px;
+border-radius: 250px;
+
+}
+.side1{
+    /* Rectangle 1874 */
+
+position: absolute;
+width: 132px;
+height: 49px;
+top: 90px;
+left: 0px;
+background: #000000;
+border-radius: 0px 22px 0px 0px;
+
+}
+#image6{
+    /* Screenshot from 2024-06-19 11-58-44 1 */
+
+position: absolute;
+width: 39px;
+height: 29px;
+left: 61px;
+top: 10px;
+border-radius: 450px;
+
+}
+.side2{
+/* Rectangle 2329 */
+
+position: absolute;
+width: 132px;
+height: 691px;
+left: 0px;
+top: 140px;
+
+background: #FDFDFD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 0px 0px 20px 20px;
+
+}
+.blue{
+    /* Rectangle 1881 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 68px;
+height: 68px;
+left: 32px;
+top: 66px;
+
+border: 1px solid #0029FF;
+border-radius: 20px;
+
+}
+.text{
+    /* 1 */
+
+position: absolute;
+width: 12px;
+height: 54px;
+left: 25px;
+top: -30px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: #0029FF;
+
+
+}
+h1{
+    /* Technical Project Management */
+
+position: absolute;
+width: 496px;
+height: 42px;
+left: 187px;
+top: 108px;
+
+font-family: 'Poppins', sans-serif;
+font-style: bold;
+font-weight: 800;
+font-size: 28px;
+line-height: 42px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: #0029FF;
+
+
+}
+.submit{
+    /* Component 58 */
+
+position: absolute;
+width: 121px;
+height: 36px;
+left: 1602px;
+top: 130px;
+/* Rectangle 1 */
+
+color: white;
+
+background: #0029FF;
+border-radius: 10px;
+border: none;
+
+
+}
+.hero{
+    /* Rectangle 1873 */
+
+position: absolute;
+width: 1536px;
+height: 135px;
+left: 187px;
+top: 187px;
+
+background: #E9ECEF;
+border-radius: 5px;
+
+}
+h2{
+    /* Explore the world of management */
+
+position: absolute;
+width: 394.05px;
+height: 30px;
+left: 40px;
+
+
+font-family: 'Poppins', sans-serif;
+font-style: bold;
+font-weight: 800;
+font-size: 20px;
+line-height: 30px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+}
+.text-2{
+    /* As a project manager, you play an important reole in leading a project through initiation, planning, execution, monitoring, controlling and completion. How? Do you want to manage each and every step of your life? */
+
+position: absolute;
+width: 1366px;
+height: 45px;
+left: 40px;
+top: 52px;
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 21px;
+letter-spacing: 0.05em;
+text-align: left;
+
+color: #000000;
+
+
+}
+.container{
+    /* Rectangle 1869 */
+
+position: absolute;
+width: 630px;
+height: 640px;
+left: 264px;
+top: 397px;
+
+background: #FDFDFD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px -4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+}
+.cont{
+    /* Rectangle 1874 */
+
+position: absolute;
+width: 630px;
+height: 50px;
+
+
+background: #000000;
+border-radius: 15px 15px 0px 0px;
+
+}
+.text-3{
+    /* Technical Project Management */
+
+position: absolute;
+width: 247px;
+height: 22px;
+left: 161px;
+
+
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height */
+letter-spacing: 0.02em;
+
+color: #FFFFFF;
+
+
+}
+#image7{
+    /* Group 1735 */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 572px;
+top: 15px;
+
+
+}
+.text-4{
+    /* Description: Story of Alignment Scope of Agility Specific Accountable Staggering Approach */
+
+position: absolute;
+width: 453px;
+height: 83px;
+top: 56px;
+left: 10px;
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 300;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #000000;
+
+
+}
+.text-5{
+    /* Description: Story of Alignment Scope of Agility Specific Accountable Staggering Approach */
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 22px;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+}
+#image8{
+    /* image 13 */
+
+position: absolute;
+width: 630px;
+height: 291px;
+left: 0px;
+top: 150px;
+
+
+
+}
+.container2{
+    /* Rectangle 1869 */
+
+position: absolute;
+width: 630px;
+height: 640px;
+left: 1020px;
+top: 397px;
+
+background: #FDFDFD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px -4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+}
+.cont-1{
+ /* Rectangle 1237 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 630px;
+height: 40px;
+left: 0px;
+top: 150px;
+
+background: rgba(254, 255, 192, 0.2);
+border: 0.1px solid rgba(0, 0, 0, 0.4);
+
+}
+#image9{
+    /* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 2.57%;
+right: 46.32%;
+top: 30.42%;
+bottom: 69.05%;
+
+background: #000000;
+
+
+
+}
+.text-6{
+    /* Thread A */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 89.62px;
+height: 27px;
+left:100px;
+top: -15px;
+
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 700;
+font-size: 20px;
+line-height: 27px;
+
+color: #000000;
+
+
+
+}
+.cont-2{
+    /* Bg layer */
+
+box-sizing: border-box;
+
+/* Group 1485 */
+
+position: absolute;
+width: 269px;
+height: 145px;
+left: 30px;
+top: 224px;
+
+
+
+background: rgba(0, 0, 0, 0.05);
+
+
+box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+}
+.cont-3{
+    /* Bg layer */
+/* Bg layer */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 25%;
+bottom: 0%;
+
+background: #FFFFFF;
+
+border: none;
+box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+
+}
+input::placeholder {
+    position: absolute;
+top:10px;
+}
+.text-7{
+    /* Sub thread 1 */
+position: absolute;
+width: 229px;
+height: 145px;
+left: -60px;
+top: -10px;
+
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 16px;
+
+color: #000000;
+
+
+}
+.cont-4{
+    /* Bg layer */
+
+box-sizing: border-box;
+
+/* Group 1485 */
+
+position: absolute;
+width: 269px;
+height: 145px;
+left: 330px;
+top: 224px;
+
+
+
+background: rgba(0, 0, 0, 0.05);
+
+
+box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+}
+.text-8{
+    /* Sub thread 1 */
+position: absolute;
+width: 229px;
+height: 145px;
+left: -30px;
+top: -10px;
+
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 16px;
+
+color: #000000;
+
+
+}
+#image10{
+    /* Group 1588 */
+
+position: absolute;
+width: 117.49px;
+height: 20px;
+left: 180px;
+top: 406px;
+
+
+}
+#image11{
+    /* Group 1732 */
+
+position: absolute;
+width: 131px;
+height: 42px;
+left: 328px;
+top: 398px;
+
+
+}
+#image12{
+    /* Group 1732 */
+
+position: absolute;
+width: 131px;
+height: 42px;
+left: 468px;
+top: 398px;
+
+
+}
+.cont-5{
+    /* Bg layer */
+
+box-sizing: border-box;
+
+/* Group 1485 */
+
+position: absolute;
+width: 565px;
+height: 115px;
+left: 30px;
+top: 498px;
+
+
+
+background: rgba(0, 0, 0, 0.05);
+
+
+box-shadow: 1px 3px 8px rgba(0, 0, 0, 0.25);
+border-radius: 10px;
+
+}
+.container3{
+    /* Rectangle 1869 */
+
+position: absolute;
+width: 630px;
+height: 640px;
+left: -760px;
+top: 707px;
+
+background: #FDFDFD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px -4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+}
+.cont-6{
+    /* Rectangle 1878 */
+
+position: absolute;
+width: 630px;
+height: 399px;
+left: -1px;
+top: 245px;
+
+background: #FDFDFD;
+border: 1px solid #D1CECE;
+border-radius: 0px 0px 15px 15px;
+
+}
+.text-9{
+    /* Title */
+
+position: absolute;
+width: 85px;
+height: 33px;
+left: 31px;
+top: 20px;
+
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 22px;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+}
+.cont-7{
+    /* Rectangle 1880 */
+
+position: absolute;
+width: 520px;
+height: 43px;
+left: 51px;
+top: 91px;
+
+background: #FCFBFB;
+box-shadow: -2px 2px 6px rgba(0, 0, 0, 0.15);
+border-radius: 5px;
+
+}
+.text-10{
+    /* Content */
+
+position: absolute;
+width: 85px;
+height: 33px;
+left: 50px;
+top: 150px;
+
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 22px;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+}
+.cont-8{
+    /* Rectangle 1882 */
+
+position: absolute;
+width: 520px;
+height: 82px;
+left: 51px;
+top: 220px;
+
+background: #FCFBFB;
+box-shadow: 0px 2px 10px rgba(0, 0, 0, 0.18);
+border-radius: 5px 5px 0px 0px;
+
+}
+.text-11{
+    /* File */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 16px;
+top: 0px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+letter-spacing: 0.02em;
+
+color: #616161;
+
+
+}
+.text-12{
+    /* File */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 52px;
+top: 0px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+letter-spacing: 0.02em;
+
+color: #616161;
+
+
+}
+.text-13{
+    /* File */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 88px;
+top: 0px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+letter-spacing: 0.02em;
+
+color: #616161;
+
+
+}
+.text-14{
+    /* File */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 128px;
+top: 0px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+letter-spacing: 0.02em;
+
+color: #616161;
+
+
+}
+.text-15{
+    /* File */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 175px;
+top: 0px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+letter-spacing: 0.02em;
+
+color: #616161;
+
+
+}
+.text-16{
+    /* File */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 232px;
+top: 0px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+letter-spacing: 0.02em;
+
+color: #616161;
+
+
+}
+.text-17{
+    /* File */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 279px;
+top: 0px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+letter-spacing: 0.02em;
+
+color: #616161;
+
+
+}
+.text-18{
+    /* File */
+
+position: absolute;
+width: 22px;
+height: 22px;
+left: 326px;
+top: 0px;
+
+font-family: 'Poppins', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 18px;
+letter-spacing: 0.02em;
+
+color: #616161;
+
+
+}
+#image13{
+    /* arrow-curve-left-right */
+
+position: absolute;
+width: 21px;
+height: 18px;
+left: 15px;
+top: 46px;
+border-radius:450px;
+
+
+}
+#image14{
+    /* arrow-curve-left-right */
+
+position: absolute;
+width: 21px;
+height: 18px;
+left: 45px;
+top: 46px;
+border-radius:450px;
+
+
+}
+#image15{
+   position: absolute;
+width: 21px;
+height: 18px;
+left: 75px;
+top: 46px;
+
+}
+.cont-9{
+    /* Rectangle 2318 */
+
+position: absolute;
+width: 102px;
+height: 18px;
+left: 125px;
+top: 46px;
+
+background: #EBEBEB;
+
+}
+.text-19{
+   
+
+/* Paragraph */
+
+position: absolute;
+width: 78px;
+height: 22px;
+left: 9px;
+top: -17px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 18px;
+letter-spacing: 0.02em;
+
+color: #616161;
+
+
+
+
+}
+.cont-10{
+    /* Rectangle 2320 */
+
+position: absolute;
+width: 520px;
+height: 95px;
+left: 0px;
+top: 84px;
+
+background: #FCFBFB;
+box-shadow: -2px 2px 6px rgba(0, 0, 0, 0.15);
+border-radius: 0px;
+
+}
+.container4{
+    /* Rectangle 1869 */
+
+position: absolute;
+width: 630px;
+height: 640px;
+left: 0px;
+top: 707px;
+
+background: #FDFDFD;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px -4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 15px;
+
+}
+.cont-11{
+    /* Rectangle 2324 */
+
+position: absolute;
+width:530px;
+height: 43px;
+left: 50px;
+top: 0px;
+
+background: #F2F2F2;
+
+}
+.cont-12{
+    /* Rectangle 1878 */
+
+position: absolute;
+width: 630px;
+height: 500px;
+left: -1px;
+top: 145px;
+
+background: #FDFDFD;
+border: 1px solid #D1CECE;
+border-radius: 0px 0px 15px 15px;
+
+}
+.text-20{
+    /* The 4SA Method , How to bring a idea into progress ? */
+
+position: absolute;
+width: 429px;
+height: 67px;
+left: 60px;
+top: 45px;
+
+
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 19px;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+}
+.cont-13{
+    /* Rectangle 2324 */
+
+position: absolute;
+width:530px;
+height: 43px;
+left: 50px;
+top: 200px;
+
+background: #FCFCFC;
+border: 1px solid #D9D7D7;
+
+}
+.text-21{
+    /* See More */
+
+position: absolute;
+width: 71px;
+height: 29px;
+left: 510px;
+top:120px;
+
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 17px;
+line-height: 19px;
+letter-spacing: 0.02em;
+
+color: #606161;
+
+
+}
+.text-22{
+    /* How are you going to develop your stratergy ? Which method are you going to use to develop a stratergy ? What if the project is lengthy? */
+
+position: absolute;
+width: 470px;
+height: 67px;
+left:70px;
+top: 250px;
+
+
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #000000;
+
+
+}
+.cont-14{
+    /* Rectangle 2324 */
+
+position: absolute;
+width:430px;
+height: 43px;
+left: 150px;
+top: 400px;
+
+background: #FCFCFC;
+border: 1px solid #D9D7D7;
+
+}
+.text-23{
+    /* Example 1 */
+
+position: absolute;
+width: 193px;
+height: 30px;
+left: 0px;
+top: -8px;
+
+
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 22px;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+}
+.text-24{
+    /* You have a concept , How will you put into progress? */
+
+position: absolute;
+width: 394px;
+height: 67px;
+left: 150px;
+top: 450px;
+
+
+font-family: 'Open Sans', sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+letter-spacing: 0.02em;
+
+color: #000000;
+
+
+}
+#image16{
+    /* Rectangle 2325 */
+
+position: absolute;
+width: 95px;
+height: 394px;
+left: 1810px;
+top: 108px;
+
+background: #FFFFFF;
+
+
+}
+#image17{
+    /* Rectangle 2326 */
+
+position: absolute;
+width: 383px;
+height: 50px;
+left: 1630px;
+top: 279px;
+border-radius: 20px 20px 0 0;
+
+
+transform: rotate(-90deg);
+
+}
+#image18{
+    /* N o t i c e B o a r d */
+
+position: absolute;
+width: 12px;
+height: 288px;
+left: 1815px;
+top: 179px;
+
+
+
+
+}
+#image19{
+
+
+position: absolute;
+width: 20px;
+height: 20px;
+left: 1812px;
+top: 140px;
+
+
+
+
+}
+/* ===== JOURNEY BOARD ===== */
+.journey-board {
+    position: fixed;
+    top: 90px;
+    left: -500px;
+    width: 252px;
+height: 249px;
+    background: #FFFFFF;
+    box-shadow: 4px 0 10px rgba(0,0,0,0.2);
+    transition: left 0.3s ease;
+    z-index: 15;
+    padding: 20px;
+}
+
+.journey-board h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.journey-board ul {
+    list-style: none;
+    padding: 0;
+}
+
+.journey-board li {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    padding: 8px 0;
+}
+
+/* ===== MAIN CONTENT SHIFT ===== */
+.main-content {
+    transition: margin-left 0.3s ease;
+}
+
+/* ===== EXPANDED STATE ===== */
+body.expanded .journey-board {
+    left: 132px; /* after black sidebar */
+}
+
+body.expanded .main-content {
+    margin-left: 260px;
+}
+
+
